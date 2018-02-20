@@ -1,0 +1,35 @@
+package summerReport;
+
+public class Report1416040 {
+
+	static int[] a;
+	static int n = 10000;
+
+	public static void main(String[] args) {
+		prime(n);
+		System.out.println(n + "番目の素数は" + a[n - 1]);
+	}
+
+	public static void prime(int n) {
+		a = new int[n];
+		a[0] = 2;
+		a[1] = 3;
+		long startTime = System.nanoTime();
+		for (int i = 2; i < n; i++) {
+			a[i] = 0;
+			for (int j = a[i - 1] + 2; a[i] == 0; j = (j + 2)) {
+				for (int k = 1; k <= (i - 1) && a[i] == 0; k++) {
+					if (a[k] * a[k] <= j) {
+						if (j % a[k] == 0)
+							break;
+					} else {
+						a[i] = j;
+					}
+				}
+			}
+		}
+		long endTime = System.nanoTime();
+		System.out.printf("%d nsec%n", (endTime - startTime));
+	}
+
+}

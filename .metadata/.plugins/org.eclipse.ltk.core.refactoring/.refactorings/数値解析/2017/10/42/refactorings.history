@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Calc.java&apos; to &apos;数値解析２/src/MyBlass&apos;&#x0D;&#x0A;- 元のプロジェクト: &apos;数値解析&apos;&#x0D;&#x0A;- 宛先要素: &apos;数値解析２/src/MyBlass&apos;&#x0D;&#x0A;- オリジナル要素: &apos;MyBLAS.Calc.java&apos;" description="コンパイル単位をコピー" destination="=数値解析２/src&lt;MyBlass" element1="/src&lt;MyBLAS{Calc.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1508118838877" units="1" version="1.0"/>
+</session>

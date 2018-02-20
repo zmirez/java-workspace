@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runner version="1.0.0">
+<category name="カテゴリーなし">
+<launchConfiguration bookmark="false" name="AnimalExample"/>
+<launchConfiguration bookmark="false" name="BisectionMethod"/>
+<launchConfiguration bookmark="false" name="C"/>
+<launchConfiguration bookmark="false" name="CircleCrossing"/>
+<launchConfiguration bookmark="false" name="ComplexExample"/>
+<launchConfiguration bookmark="false" name="DoubleFor"/>
+<launchConfiguration bookmark="false" name="EvaluationExample02"/>
+<launchConfiguration bookmark="false" name="EvalutionExample"/>
+<launchConfiguration bookmark="false" name="Ex04_03_1"/>
+<launchConfiguration bookmark="false" name="Ex04_03_2"/>
+<launchConfiguration bookmark="false" name="Ex04_04_1A"/>
+<launchConfiguration bookmark="false" name="Ex04_04_1B"/>
+<launchConfiguration bookmark="false" name="Ex04_04_1C"/>
+<launchConfiguration bookmark="false" name="Ex06_02_1"/>
+<launchConfiguration bookmark="false" name="Ex06_02_2"/>
+<launchConfiguration bookmark="false" name="Ex06_03_2"/>
+<launchConfiguration bookmark="false" name="Ex09_04_3"/>
+<launchConfiguration bookmark="false" name="Ex10_01"/>
+<launchConfiguration bookmark="false" name="ExceptionExample01"/>
+<launchConfiguration bookmark="false" name="ExceptionExample02"/>
+<launchConfiguration bookmark="false" name="Exec"/>
+<launchConfiguration bookmark="false" name="F2"/>
+<launchConfiguration bookmark="false" name="FibonacciExample"/>
+<launchConfiguration bookmark="false" name="FractionExample"/>
+<launchConfiguration bookmark="false" name="G"/>
+<launchConfiguration bookmark="false" name="HanoiExample"/>
+<launchConfiguration bookmark="false" name="Johoochi"/>
+<launchConfiguration bookmark="false" name="Ketaochi"/>
+<launchConfiguration bookmark="false" name="ListStructureExample"/>
+<launchConfiguration bookmark="false" name="MachineEpsilon"/>
+<launchConfiguration bookmark="false" name="MatrixExample"/>
+<launchConfiguration bookmark="false" name="MethodExample01"/>
+<launchConfiguration bookmark="false" name="MethodExample02"/>
+<launchConfiguration bookmark="false" name="MethodExample03"/>
+<launchConfiguration bookmark="false" name="PetExample"/>
+<launchConfiguration bookmark="false" name="PointExample"/>
+<launchConfiguration bookmark="false" name="Probem2015"/>
+<launchConfiguration bookmark="false" name="Problem01"/>
+<launchConfiguration bookmark="false" name="Problem01 (1)"/>
+<launchConfiguration bookmark="false" name="Problem01 (2)"/>
+<launchConfiguration bookmark="false" name="Problem05"/>
+<launchConfiguration bookmark="false" name="Problem06"/>
+<launchConfiguration bookmark="false" name="Problem07"/>
+<launchConfiguration bookmark="false" name="Problem07 (1)"/>
+<launchConfiguration bookmark="false" name="Problem08"/>
+<launchConfiguration bookmark="false" name="Problem09"/>
+<launchConfiguration bookmark="false" name="Problem1"/>
+<launchConfiguration bookmark="false" name="Problem1 (1)"/>
+<launchConfiguration bookmark="false" name="Problem1 (2)"/>
+<launchConfiguration bookmark="false" name="Problem10"/>
+<launchConfiguration bookmark="false" name="Problem11"/>
+<launchConfiguration bookmark="false" name="Problem12"/>
+<launchConfiguration bookmark="false" name="Problem2"/>
+<launchConfiguration bookmark="false" name="Problem2 (1)"/>
+<launchConfiguration bookmark="false" name="Problem2 (2)"/>
+<launchConfiguration bookmark="false" name="Problem2 (3)"/>
+<launchConfiguration bookmark="false" name="Problem26"/>
+<launchConfiguration bookmark="false" name="Problem27_2"/>
+<launchConfiguration bookmark="false" name="Problem27_4"/>
+<launchConfiguration bookmark="false" name="Problem3"/>
+<launchConfiguration bookmark="false" name="Problem4"/>
+<launchConfiguration bookmark="false" name="Report1416040"/>
+<launchConfiguration bookmark="false" name="Report1416040 (1)"/>
+<launchConfiguration bookmark="false" name="RoundOffError"/>
+<launchConfiguration bookmark="false" name="Samaple07_06_2"/>
+<launchConfiguration bookmark="false" name="Sample01_01"/>
+<launchConfiguration bookmark="false" name="Sample03_04"/>
+<launchConfiguration bookmark="false" name="Sample03_05"/>
+<launchConfiguration bookmark="false" name="Sample03_06"/>
+<launchConfiguration bookmark="false" name="Sample04_01"/>
+<launchConfiguration bookmark="false" name="Sample04_03"/>
+<launchConfiguration bookmark="false" name="Sample04_05"/>
+<launchConfiguration bookmark="false" name="Sample04_05_2"/>
+<launchConfiguration bookmark="false" name="Sample04_05_3"/>
+<launchConfiguration bookmark="false" name="Sample04_05_4"/>
+<launchConfiguration bookmark="false" name="Sample04_13"/>
+<launchConfiguration bookmark="false" name="Sample05_01_2"/>
+<launchConfiguration bookmark="false" name="Sample06_02_2"/>
+<launchConfiguration bookmark="false" name="Sample06_03_2"/>
+<launchConfiguration bookmark="false" name="Sample06_05_2"/>
+<launchConfiguration bookmark="false" name="Sample06_05_3"/>
+<launchConfiguration bookmark="false" name="Sample07_05_2"/>
+<launchConfiguration bookmark="false" name="Sample07_07_2"/>
+<launchConfiguration bookmark="false" name="Sample08_01"/>
+<launchConfiguration bookmark="false" name="Sample08_03_2"/>
+<launchConfiguration bookmark="false" name="Sample09_02_2"/>
+<launchConfiguration bookmark="false" name="Sample09_02_3"/>
+<launchConfiguration bookmark="false" name="Sample09_04_2"/>
+<launchConfiguration bookmark="false" name="Sample10_07"/>
+<launchConfiguration bookmark="false" name="Sample10_08"/>
+<launchConfiguration bookmark="false" name="Sample12_02"/>
+<launchConfiguration bookmark="false" name="Sample12_03"/>
+<launchConfiguration bookmark="false" name="Sample20_09_2"/>
+<launchConfiguration bookmark="false" name="Sample20_09_3"/>
+<launchConfiguration bookmark="false" name="Sample20_09_4"/>
+<launchConfiguration bookmark="false" name="Sample20_09_5"/>
+<launchConfiguration bookmark="false" name="Sample20_09_7"/>
+<launchConfiguration bookmark="false" name="Sample20_09_8"/>
+<launchConfiguration bookmark="false" name="Sample_20_09_6"/>
+<launchConfiguration bookmark="false" name="SearchingExaple"/>
+<launchConfiguration bookmark="false" name="ShortestPathAlgorithm"/>
+<launchConfiguration bookmark="false" name="StudentExample"/>
+<launchConfiguration bookmark="false" name="UranaishiExample"/>
+</category>
+</runner>
